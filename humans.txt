@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	erica -- rocking data scientist -- #boycottTwitter
 
 # THANKS
 
