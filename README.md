@@ -17,3 +17,7 @@ Adding deployment
 ## Testing VS Code
 
 Updated VS Code as difftool in gitconfig
+
+### Copyright
+
+Here's the copyright info
