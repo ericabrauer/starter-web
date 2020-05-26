@@ -10,4 +10,8 @@ This is example to show different parts of the Git repository and various comman
 
 ## How To Contribute
 
+Adding contribution
+
 ## Deployment
+
+Adding deployment
